@@ -368,6 +368,10 @@ section
 	line-height: 0.75;
 	margin-top: 6px;
 }
+.logo img{
+	position: relative;
+	left: 16px;
+}
 .main_nav
 {
 	margin-left: 226px;

@@ -444,6 +444,9 @@
 
 @media only screen and (max-width: 479px)
 {
+	.home_text{
+		display: none;
+	}
 	.header.scrolled .header_content,
 	.header_content
 	{
@@ -460,6 +463,9 @@
 
 @media only screen and (max-width: 400px)
 {
+	.home_text{
+		display: none;
+	}
 	.header.scrolled .header_content,
 	.header_content
 	{
